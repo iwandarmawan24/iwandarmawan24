@@ -1,4 +1,4 @@
-<h2 align="center">Holla👋! My name is Iwan Darmawan, a Software Engineer From Jakarta, Indonesia</h2>
+<h2 align="center">Holla👋! My name is Iwan Darmawan, a Frontend Software Engineer From Jakarta, Indonesia</h2>
 
 ###
 
