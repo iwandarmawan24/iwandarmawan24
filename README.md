@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-📄 Want to Know about my experiences? [My Resume](https://github.com/iwandarmawan24/iwan-profile/blob/main/Iwan_Darmawan_-_Software_Engineer_-_(Frontend).pdf)
+📄 Want to Know about my experiences? [My Resume](https://github.com/iwandarmawan24/iwandarmawan24/blob/main/Iwan_Darmawan_-_Software_Engineer_-_(Frontend).pdf)
 📄 Want to Know about all my porto? [My Porto](https://iwansaila.wixsite.com/wandarmawan)
 
 ###
