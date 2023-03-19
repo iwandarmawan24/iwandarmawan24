@@ -21,7 +21,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwandarmawan24&show_icons=true&locale=en" alt="iwandarmawan24" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwandarmawan24&" alt="iwandarmawan24" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwandarmawan24&show_icons=true&locale=en&layout=compact" alt="iwandarmawan24" /></p>
