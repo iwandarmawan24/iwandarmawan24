@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iwan Darmawan</h1>
-<h3 align="center">Experienced Frontend Engineer skilled in Next.js, React, and UI design. Proven track record of optimizing code and ensuring user-friendly platforms. Strong collaborator and agile practitioner.</h3>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/iwandarmawan24/main/normal_spongebob4.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="220" width="400" /></p>
+<h3 align="center">and basicly an Experienced Frontend Engineer skilled in Next.js, React, and UI design. Proven track record of optimizing code and ensuring user-friendly platforms. Strong collaborator and agile practitioner.</h3>
 
 - 🌱 I’m currently learning **on datastructure and algorithm beside learning of software development**
 
