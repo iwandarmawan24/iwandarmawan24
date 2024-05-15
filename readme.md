@@ -39,43 +39,7 @@
 </table>
 
 <h3 align="left">Projects I contributed on</h3>
-<ul>
-<li><p align="left">
-Legion - Lenovo (website and campaign platform)
-<br>
-<a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/legion-lenovo.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="30" width="80" /></a>
-</p>
-</li>
-<li><p align="left">
-Astra Honda Website
-<br>
-<a href="https://astra-honda.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/0d60aeeea53e1ddba9c8ec1a113ba405341968d5/astra-honda.svg" alt="https://www.linkedin.com/in/iwandarmawan/" height="50" width="100" /></a>
-</p></li>
-<li><p align="left">
-SSA lighting (website)
-<br>
-<a href="http://www.ssalighting.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ssa-lightning.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="80" width="120" /></a>
-</p></li>
-<li><p align="left">
-Ngulik rasa by Unilever (campaign platform)
-<br>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ufs.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="110" /></a>
-</p></li>
-<li><p align="left">
-Extrupack (internal platform)
-<br>
-<a href="https://www.ultimaii.com/en/journal" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/extrupack.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="110" /></a>
-</p></li>
-<li><p align="left">
-Komss.co<br>
-<a href="http://komms.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/komms.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="120" /></a>
-</p></li>
-<li><p align="left">
-Ultima II Skin Diary (campaign / feature )<br>
-<a href="http://komms.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ultima-ii.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="50" width="50" /></a>
-</p></li>
-<li>and more.</li>
-</ul>
+<table>  <tr>  <th>Company</th>  <th>Role</th>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/legion-lenovo.png" alt="Legion - Lenovo" height="15" width="40" />&nbsp; Legion - Lenovo (website and campaign platform) </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/0d60aeeea53e1ddba9c8ec1a113ba405341968d5/astra-honda.svg" alt="Astra Honda" height="25" width="50" />&nbsp; Astra Honda Website </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ssa-lightning.png" alt="SSA lighting" height="40" width="60" />&nbsp; SSA lighting (website) </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ufs.png" alt="Ngulik rasa by Unilever" height="20" width="55" />&nbsp; Ngulik rasa by Unilever (campaign platform) </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/extrupack.png" alt="Extrupack" height="20" width="55" />&nbsp; Extrupack (internal platform) </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/komms.png" alt="Komss.co" height="20" width="60" />&nbsp; Komss.co </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>  <p align="left">  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ultima-ii.png" alt="Ultima II Skin Diary" height="25" width="25" />&nbsp; Ultima II Skin Diary (campaign / feature) </p>  </td>  <td>Frontend</td>  </tr>  <tr>  <td>and more.</td>   </tr>  </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iwandarmawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iwandarmawan/" height="30" width="40" /></a>
