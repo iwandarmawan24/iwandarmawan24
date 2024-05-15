@@ -9,26 +9,35 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oqok1OetnbptQta3cEM7htNWdqFNPCge/view?usp=sharing)
 <h3 align="left">Employement Histories</h3>
-<ul>
-<li>
-<p align="left">
-<b>Frontend Dev</b> <br> <a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/sunedu.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="60" width="100" /></a> &nbsp; Sun Education Group <br> December 2022 - November 2023
-<br>
+<table>  
+<tr>  
+<th>Company</th>  
+<th>Role</th>  
+<th>Period</th>  
+</tr>  
+<tr>  
+<td><p align="left">
+<img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/sunedu.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="30" width="50" /></a>&nbsp; Sun Education Group 
+</p></td>  
+<td>Frontend Dev</td>  
+<td>Dec 2022 - Nov 2023</td>  
+</tr>  
+<tr>  
+<td><p align="left"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/orami.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="35" width="45" /></a> &nbsp;Orami (Bilna)
 </p>
-</li>
-<li>
-<p align="left">
-<b>Frontend Dev</b> <br>  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/orami.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="70" width="90" /></a> &nbsp;Orami (Bilna) <br> July 2021 - November 2022     
-<br>
-</p>
-</li>
-<li>
-<p align="left">
-<b>Frontend Dev</b> <br> <a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/isysedge.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="70" width="70" /></a> &nbsp;Isysedge <br>  July 2019 - July 2021
-<br>
-</p>
-</li>
-</ul>
+</td>  
+<td>Frontend Dev</td>  
+<td>Jul 2019 - Jul2021</td>  
+</tr>  
+<tr>  
+<td><p align="left">
+<img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/isysedge.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="35" width="35" /></a>&nbsp; Isysedge
+</p></td>  
+<td>Frontend Dev</td>  
+<td>Dec 2022 - Nov 2023</td>  
+</tr>  
+</table>
+
 <h3 align="left">Projects I contributed on</h3>
 <ul>
 <li><p align="left">
