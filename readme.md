@@ -8,42 +8,65 @@
 - 📫 How to reach me **iwansaila@gmail.com** and [**(085244479287) mobile**](https://wa.me/085244479287?text=Halo,%20Iwan!!)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oqok1OetnbptQta3cEM7htNWdqFNPCge/view?usp=sharing)
-
-<h3 align="left">Projects I contributed on:</h3>
+<h3 align="left">Employement Histories</h3>
+<ul>
+<li>
 <p align="left">
+<b>Frontend Dev</b> <br> <a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/sunedu.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="60" width="100" /></a> &nbsp; Sun Education Group <br> December 2022 - November 2023
+<br>
+</p>
+</li>
+<li>
+<p align="left">
+<b>Frontend Dev</b> <br>  <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/orami.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="70" width="90" /></a> &nbsp;Orami (Bilna) <br> July 2021 - November 2022     
+<br>
+</p>
+</li>
+<li>
+<p align="left">
+<b>Frontend Dev</b> <br> <a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/isysedge.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="70" width="70" /></a> &nbsp;Isysedge <br>  July 2019 - July 2021
+<br>
+</p>
+</li>
+</ul>
+<h3 align="left">Projects I contributed on</h3>
+<ul>
+<li><p align="left">
 Legion - Lenovo (website and campaign platform)
 <br>
 <a href="https://legion.lenovo.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/legion-lenovo.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="30" width="80" /></a>
 </p>
-<p align="left">
+</li>
+<li><p align="left">
 Astra Honda Website
 <br>
 <a href="https://astra-honda.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/0d60aeeea53e1ddba9c8ec1a113ba405341968d5/astra-honda.svg" alt="https://www.linkedin.com/in/iwandarmawan/" height="50" width="100" /></a>
-</p>
-<p align="left">
+</p></li>
+<li><p align="left">
 SSA lighting (website)
 <br>
 <a href="http://www.ssalighting.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ssa-lightning.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="80" width="120" /></a>
-</p>
-<p align="left">
+</p></li>
+<li><p align="left">
 Ngulik rasa by Unilever (campaign platform)
 <br>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ufs.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="110" /></a>
-</p>
-<p align="left">
+</p></li>
+<li><p align="left">
 Extrupack (internal platform)
 <br>
 <a href="https://www.ultimaii.com/en/journal" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/extrupack.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="110" /></a>
-</p>
-<p align="left">
+</p></li>
+<li><p align="left">
 Komss.co<br>
 <a href="http://komms.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/komms.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="40" width="120" /></a>
-</p>
-<p align="left">
+</p></li>
+<li><p align="left">
 Ultima II Skin Diary (campaign / feature )<br>
 <a href="http://komms.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/ultima-ii.png" alt="https://www.linkedin.com/in/iwandarmawan/" height="50" width="50" /></a>
-</p>
-and more
+</p></li>
+<li>and more.</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iwandarmawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iwandarmawan/" height="30" width="40" /></a>
