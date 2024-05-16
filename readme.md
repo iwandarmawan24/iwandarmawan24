@@ -28,14 +28,14 @@
 </p>
 </td>  
 <td>Frontend Dev</td>  
-<td>Jul 2019 - Jul2021</td>  
+<td>Jul 2021 - Nov 2022</td>  
 </tr>  
 <tr>  
 <td><p align="left">
 <img align="center" src="https://raw.githubusercontent.com/iwandarmawan24/portofiles/main/isysedge.jpg" alt="https://www.linkedin.com/in/iwandarmawan/" height="35" width="35" /></a>&nbsp; Isysedge
 </p></td>  
 <td>Frontend Dev</td>  
-<td>Dec 2022 - Nov 2023</td>  
+<td>Jul 2019 - Jul 2021</td>  
 </tr>  
 </table>
 
